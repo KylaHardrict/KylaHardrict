@@ -4,11 +4,13 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Project 2**
+<img src="HOLExample.png?raw=true"/>
+
+A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+**Project 3**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
