@@ -2,9 +2,9 @@
 
 ---
 
-### Projects 
+## Projects 
 
-**Project 2**
+## **Project 2**
 
  <br><br>
 
@@ -13,7 +13,7 @@
 A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match
 
 ---
-**Project 3**
+## **Project 3**
 
  <br><br>
  
