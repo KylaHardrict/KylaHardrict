@@ -6,16 +6,17 @@
 
 ## **Project 2**
 
- <br><br>
+ <br>
 
 <img src="images/HOLExample.png?raw=true"/>
 
-A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match
+A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match.
+
 
 ---
 ## **Project 3**
 
- <br><br>
+ <br>
  
 <img src="images/Project3Example.png?raw=true"/>
 
@@ -25,13 +26,24 @@ A game where you wake up in a mall and have to escape it by exploring and findin
 
 ---
 
-### Assignments
+## Assignments
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+**Stocks Simulator**
+<br>
+
+<img src="images/StockExample.png?raw=true"/>
+
+A simulation of stocks dropping and rising. I took the example code and added more stocks, as well as adding a way to tell whether or not they increased or decreased. I also made it green if it increased, red if it decreased.
+
+**Coffee Simulator**
+<br>
+<img src="images/coffeeexample.png?raw=true"/>
+
+**Creature Simulator**
+<br>
+<img src="images/KylaWorld.png?raw=true"/>
+
+A game where you can go to different places and see different creatures. This example shows your home, which
 
 ---
 
