@@ -5,17 +5,23 @@
 ### Projects 
 
 **Project 2**
+
+ <br><br>
+
 <img src="images/HOLExample.png?raw=true"/>
 
 A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match
 
 ---
 **Project 3**
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ <br><br>
+ 
+<img src="images/Project3Example.png?raw=true"/>
+
+A game where you wake up in a mall and have to escape it by exploring and finding and using items
+
+
 
 ---
 
