@@ -39,11 +39,13 @@ A simulation of stocks dropping and rising. I took the example code and added mo
 <br>
 <img src="images/coffeeexample.png?raw=true"/>
 
+A simulation of coffee cooling. I followed the example provided in class to make this
+
 **Creature Simulator**
 <br>
 <img src="images/KylaWorld.png?raw=true"/>
 
-A game where you can go to different places and see different creatures. This example shows your home, which
+A game where you can go to different places and see different creatures. This example shows your home, which has 3 creatures named after my cats. 
 
 ---
 
