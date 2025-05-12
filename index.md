@@ -5,7 +5,7 @@
 ### Projects 
 
 **Project 2**
-<img src="HOLExample.png?raw=true"/>
+<img src="images/HOLExample.png?raw=true"/>
 
 A game where you can play 3 different card games, Higher or Lower, Same Or Different and Highest Match
 
